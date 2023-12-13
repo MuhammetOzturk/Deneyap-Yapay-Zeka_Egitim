@@ -1,0 +1,139 @@
+[W 2023-12-13 19:01:15.612 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2023-12-13 19:01:16.054 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-12-13 19:01:16.054 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2023-12-13 19:01:16.057 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2023-12-13 19:01:16.060 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-12-13 19:01:16.063 ServerApp] notebook | extension was successfully linked.
+[I 2023-12-13 19:01:16.205 ServerApp] notebook_shim | extension was successfully linked.
+[W 2023-12-13 19:01:16.206 ServerApp] Config option `save_script` not recognized by `AsyncLargeFileManager`.
+[I 2023-12-13 19:01:16.215 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-12-13 19:01:16.217 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2023-12-13 19:01:16.217 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2023-12-13 19:01:16.218 LabApp] JupyterLab extension loaded from /home/muhammet/.venv/lib/python3.11/site-packages/jupyterlab
+[I 2023-12-13 19:01:16.218 LabApp] JupyterLab application directory is /home/muhammet/.venv/share/jupyter/lab
+[I 2023-12-13 19:01:16.219 LabApp] Extension Manager is 'pypi'.
+[I 2023-12-13 19:01:16.220 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-12-13 19:01:16.222 ServerApp] notebook | extension was successfully loaded.
+[I 2023-12-13 19:01:16.223 ServerApp] Serving notebooks from local directory: /home/muhammet/kodlama/Deneyap-Yapay-Zeka_Egitim/Hafta2
+[I 2023-12-13 19:01:16.223 ServerApp] Jupyter Server 2.12.1 is running at:
+[I 2023-12-13 19:01:16.223 ServerApp] http://localhost:8888/tree?token=65aa1837d19541b688b90198bcc620d8c5d37455524f9171
+[I 2023-12-13 19:01:16.223 ServerApp]     http://127.0.0.1:8888/tree?token=65aa1837d19541b688b90198bcc620d8c5d37455524f9171
+[I 2023-12-13 19:01:16.223 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-12-13 19:01:16.251 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/muhammet/.local/share/jupyter/runtime/jpserver-2806-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=65aa1837d19541b688b90198bcc620d8c5d37455524f9171
+        http://127.0.0.1:8888/tree?token=65aa1837d19541b688b90198bcc620d8c5d37455524f9171
+Opening in existing browser session.
+[I 2023-12-13 19:01:16.735 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2023-12-13 19:01:17.482 JupyterNotebookApp] 302 GET /tree/Deneyap%20Egitim%202.%20Hafta.ipynb?token=[secret] (4ee83aea235d47e881297276e9294dbb@::1) 2.22ms
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 2023-12-13 19:01:19.857 ServerApp] 404 GET /assets/veri_modelleme.png (4ee83aea235d47e881297276e9294dbb@::1) 17.14ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:19.860 ServerApp] 404 GET /assets/arf.png (4ee83aea235d47e881297276e9294dbb@::1) 1.12ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:19.867 ServerApp] 404 GET /files/assets/veri_modelleme.png?_xsrf=[secret]&1702483279860 (4ee83aea235d47e881297276e9294dbb@::1) 1.20ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:19.869 ServerApp] 404 GET /files/assets/arf.png?_xsrf=[secret]&1702483279861 (4ee83aea235d47e881297276e9294dbb@::1) 1.32ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[I 2023-12-13 19:01:20.067 ServerApp] Kernel started: 6001cd2e-ffe2-4dae-8f33-1b6645165067
+[W 2023-12-13 19:01:20.090 ServerApp] 404 GET /assets/iris.png (4ee83aea235d47e881297276e9294dbb@::1) 1.07ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.093 ServerApp] 404 GET /assets/iris_table.png (4ee83aea235d47e881297276e9294dbb@::1) 2.38ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.096 ServerApp] 404 GET /files/assets/iris.png?_xsrf=[secret]&1702483280087 (4ee83aea235d47e881297276e9294dbb@::1) 4.59ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.098 ServerApp] 404 GET /files/assets/iris_table.png?_xsrf=[secret]&1702483280087 (4ee83aea235d47e881297276e9294dbb@::1) 1.52ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.286 ServerApp] 404 GET /assets/karar_agaclari.png (4ee83aea235d47e881297276e9294dbb@::1) 1.11ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.289 ServerApp] 404 GET /files/assets/karar_agaclari.png?_xsrf=[secret]&1702483280282 (4ee83aea235d47e881297276e9294dbb@::1) 1.68ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.475 ServerApp] 404 GET /assets/knn.png (4ee83aea235d47e881297276e9294dbb@::1) 1.99ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.478 ServerApp] 404 GET /files/assets/knn.png?_xsrf=[secret]&1702483280469 (4ee83aea235d47e881297276e9294dbb@::1) 2.57ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 2023-12-13 19:01:20.631 ServerApp] 404 GET /assets/kavramlar.png (4ee83aea235d47e881297276e9294dbb@::1) 1.36ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.632 ServerApp] 404 GET /assets/veri_t%C3%BCrleri.png (4ee83aea235d47e881297276e9294dbb@::1) 1.30ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.637 ServerApp] 404 GET /assets/bulan%C4%B1k_sistemi.png (4ee83aea235d47e881297276e9294dbb@::1) 2.05ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.639 ServerApp] 404 GET /files/assets/kavramlar.png?_xsrf=[secret]&1702483280614 (4ee83aea235d47e881297276e9294dbb@::1) 1.44ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.643 ServerApp] 404 GET /files/assets/veri_t%C3%BCrleri.png?_xsrf=[secret]&1702483280614 (4ee83aea235d47e881297276e9294dbb@::1) 1.12ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:01:20.644 ServerApp] 404 GET /files/assets/bulan%C4%B1k_sistemi.png?_xsrf=[secret]&1702483280614 (4ee83aea235d47e881297276e9294dbb@::1) 1.07ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[I 2023-12-13 19:01:20.784 ServerApp] Connecting to kernel 6001cd2e-ffe2-4dae-8f33-1b6645165067.
+[I 2023-12-13 19:01:22.717 ServerApp] Interrupted...
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[W 2023-12-13 19:02:29.477 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2023-12-13 19:02:29.912 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-12-13 19:02:29.912 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2023-12-13 19:02:29.915 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2023-12-13 19:02:29.919 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-12-13 19:02:29.922 ServerApp] notebook | extension was successfully linked.
+[I 2023-12-13 19:02:30.075 ServerApp] notebook_shim | extension was successfully linked.
+[W 2023-12-13 19:02:30.077 ServerApp] Config option `save_script` not recognized by `AsyncLargeFileManager`.
+[I 2023-12-13 19:02:30.086 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-12-13 19:02:30.087 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2023-12-13 19:02:30.088 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2023-12-13 19:02:30.089 LabApp] JupyterLab extension loaded from /home/muhammet/.venv/lib/python3.11/site-packages/jupyterlab
+[I 2023-12-13 19:02:30.089 LabApp] JupyterLab application directory is /home/muhammet/.venv/share/jupyter/lab
+[I 2023-12-13 19:02:30.090 LabApp] Extension Manager is 'pypi'.
+[I 2023-12-13 19:02:30.091 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-12-13 19:02:30.093 ServerApp] notebook | extension was successfully loaded.
+[I 2023-12-13 19:02:30.094 ServerApp] Serving notebooks from local directory: /home/muhammet/kodlama/Deneyap-Yapay-Zeka_Egitim/Hafta2
+[I 2023-12-13 19:02:30.094 ServerApp] Jupyter Server 2.12.1 is running at:
+[I 2023-12-13 19:02:30.094 ServerApp] http://localhost:8888/tree?token=27c490c6a5ead5fe1f6336584cf87e73c20dc6e1d1c962f4
+[I 2023-12-13 19:02:30.094 ServerApp]     http://127.0.0.1:8888/tree?token=27c490c6a5ead5fe1f6336584cf87e73c20dc6e1d1c962f4
+[I 2023-12-13 19:02:30.094 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-12-13 19:02:30.122 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/muhammet/.local/share/jupyter/runtime/jpserver-3258-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=27c490c6a5ead5fe1f6336584cf87e73c20dc6e1d1c962f4
+        http://127.0.0.1:8888/tree?token=27c490c6a5ead5fe1f6336584cf87e73c20dc6e1d1c962f4
+Opening in existing browser session.
+[I 2023-12-13 19:02:30.602 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2023-12-13 19:02:31.350 JupyterNotebookApp] 302 GET /tree/Deneyap%20Egitim%202.%20Hafta.ipynb?token=[secret] (4ee83aea235d47e881297276e9294dbb@::1) 1.48ms
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 2023-12-13 19:02:33.798 ServerApp] 404 GET /assets/veri_modelleme.png (4ee83aea235d47e881297276e9294dbb@::1) 15.28ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:33.801 ServerApp] 404 GET /assets/arf.png (4ee83aea235d47e881297276e9294dbb@::1) 1.82ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:33.808 ServerApp] 404 GET /files/assets/veri_modelleme.png?_xsrf=[secret]&1702483353801 (4ee83aea235d47e881297276e9294dbb@::1) 1.44ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:33.816 ServerApp] 404 GET /assets/iris.png (4ee83aea235d47e881297276e9294dbb@::1) 1.31ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:33.819 ServerApp] 404 GET /assets/iris_table.png (4ee83aea235d47e881297276e9294dbb@::1) 2.58ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:33.821 ServerApp] 404 GET /files/assets/arf.png?_xsrf=[secret]&1702483353811 (4ee83aea235d47e881297276e9294dbb@::1) 4.39ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:33.823 ServerApp] 404 GET /files/assets/iris.png?_xsrf=[secret]&1702483353815 (4ee83aea235d47e881297276e9294dbb@::1) 1.64ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:33.825 ServerApp] 404 GET /files/assets/iris_table.png?_xsrf=[secret]&1702483353815 (4ee83aea235d47e881297276e9294dbb@::1) 3.30ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[I 2023-12-13 19:02:33.980 ServerApp] Kernel started: 59ced5b2-55de-4faa-914a-204524798b13
+[W 2023-12-13 19:02:34.132 ServerApp] 404 GET /assets/karar_agaclari.png (4ee83aea235d47e881297276e9294dbb@::1) 1.09ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.142 ServerApp] 404 GET /files/assets/karar_agaclari.png?_xsrf=[secret]&1702483354137 (4ee83aea235d47e881297276e9294dbb@::1) 1.23ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.303 ServerApp] 404 GET /assets/knn.png (4ee83aea235d47e881297276e9294dbb@::1) 2.65ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.305 ServerApp] 404 GET /files/assets/knn.png?_xsrf=[secret]&1702483354297 (4ee83aea235d47e881297276e9294dbb@::1) 1.58ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.447 ServerApp] 404 GET /assets/kavramlar.png (4ee83aea235d47e881297276e9294dbb@::1) 1.96ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.450 ServerApp] 404 GET /assets/veri_t%C3%BCrleri.png (4ee83aea235d47e881297276e9294dbb@::1) 2.96ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.453 ServerApp] 404 GET /assets/bulan%C4%B1k_sistemi.png (4ee83aea235d47e881297276e9294dbb@::1) 1.89ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.462 ServerApp] 404 GET /files/assets/kavramlar.png?_xsrf=[secret]&1702483354442 (4ee83aea235d47e881297276e9294dbb@::1) 3.16ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.465 ServerApp] 404 GET /files/assets/veri_t%C3%BCrleri.png?_xsrf=[secret]&1702483354442 (4ee83aea235d47e881297276e9294dbb@::1) 1.84ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:02:34.466 ServerApp] 404 GET /files/assets/bulan%C4%B1k_sistemi.png?_xsrf=[secret]&1702483354442 (4ee83aea235d47e881297276e9294dbb@::1) 2.87ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2023-12-13 19:02:34.605 ServerApp] Connecting to kernel 59ced5b2-55de-4faa-914a-204524798b13.
+[I 2023-12-13 19:04:33.734 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:10:35.456 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:16:38.478 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:18:38.557 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:20:38.651 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:22:38.742 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:24:38.856 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:26:38.954 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:28:39.077 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:30:39.224 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 19:32:39.453 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[W 2023-12-13 19:40:37.794 ServerApp] 404 GET /assets/kavramlar.png (4ee83aea235d47e881297276e9294dbb@::1) 1.64ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:40:37.797 ServerApp] 404 GET /assets/veri_t%C3%BCrleri.png (4ee83aea235d47e881297276e9294dbb@::1) 1.88ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:40:37.798 ServerApp] 404 GET /assets/bulan%C4%B1k_sistemi.png (4ee83aea235d47e881297276e9294dbb@::1) 2.69ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:40:37.801 ServerApp] 404 GET /files/assets/kavramlar.png?_xsrf=[secret]&1702485637789 (4ee83aea235d47e881297276e9294dbb@::1) 1.77ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:40:37.839 ServerApp] 404 GET /files/assets/veri_t%C3%BCrleri.png?_xsrf=[secret]&1702485637789 (4ee83aea235d47e881297276e9294dbb@::1) 39.28ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[W 2023-12-13 19:40:37.841 ServerApp] 404 GET /files/assets/bulan%C4%B1k_sistemi.png?_xsrf=[secret]&1702485637789 (4ee83aea235d47e881297276e9294dbb@::1) 1.14ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
+[I 2023-12-13 19:40:41.486 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 20:02:57.463 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
