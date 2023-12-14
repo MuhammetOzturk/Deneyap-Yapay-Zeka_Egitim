@@ -137,3 +137,8 @@ Opening in existing browser session.
 [W 2023-12-13 19:40:37.841 ServerApp] 404 GET /files/assets/bulan%C4%B1k_sistemi.png?_xsrf=[secret]&1702485637789 (4ee83aea235d47e881297276e9294dbb@::1) 1.14ms referer=http://localhost:8888/notebooks/Deneyap%20Egitim%202.%20Hafta.ipynb
 [I 2023-12-13 19:40:41.486 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
 [I 2023-12-13 20:02:57.463 ServerApp] Saving file at /Deneyap Egitim 2. Hafta.ipynb
+[I 2023-12-13 20:10:39.607 ServerApp] Starting buffering for 59ced5b2-55de-4faa-914a-204524798b13:83128b03-4687-483f-8cf6-fd15073ae129
+[C 2023-12-13 22:35:12.087 ServerApp] received signal 15, stopping
+[I 2023-12-13 22:35:12.088 ServerApp] Shutting down 5 extensions
+[I 2023-12-13 22:35:12.088 ServerApp] Shutting down 1 kernel
+[I 2023-12-13 22:35:12.089 ServerApp] Kernel shutdown: 59ced5b2-55de-4faa-914a-204524798b13
